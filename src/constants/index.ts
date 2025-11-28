@@ -124,14 +124,30 @@ const technologies: TTechnology[] = [
 ];
 
 const experiences: TExperience[] = [
+
   {
-    title: "React.js Developer",
+    title: "Web Developer",
+    companyName: "Digics pvt ltd",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "April 2025  -  December 2025",
+    points: [
+      "Developed and maintained dynamic web applications using React.js, HTML, CSS, and JavaScript, ensuring high performance and scalability.",
+      "Collaborated with cross-functional teams including designers, product managers, and developers to deliver high-quality, user-friendly products.",
+      "Implemented responsive and mobile-first designs, ensuring seamless functionality across different browsers and devices.",
+      "Participated in code reviews, providing constructive feedback and contributing to improving overall code quality",
+      "Occasionally worked with Node.js and PHP for backend integration, API development, and server-side logic.",
+      "Focused on writing clean, modular, and maintainable code, adhering to best practices and modern development standards.",
+    ],
+  },
+  {
+    title: "Web Developer",
     companyName: "Bhoomi-Techzone",
     icon: starbucks,
     iconBg: "#383E56",
     date: "June 2024 - March 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using HTML, CSS, and JavaScript, React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
